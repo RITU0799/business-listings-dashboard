@@ -109,10 +109,9 @@ git init
 git add .
 git commit -m "Build business listings dashboard assignment"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/business-listings-dashboard.git
+git remote add origin https://github.com/RITU0799/business-listings-dashboard.git
 git push -u origin main
 ```
-Create the empty repository on GitHub first and replace `YOUR_USERNAME`.
 
 ## 6. Demo video outline (3–5 minutes)
 1. Introduce the React + FastAPI + MySQL architecture (20–30 sec).
