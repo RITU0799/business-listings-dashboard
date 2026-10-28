@@ -1,0 +1,501 @@
+business_name,category,city,address,phone,source
+State Bank of India,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Snack Corner,Restaurant,Bengaluru,"Bannerghatta Road, Bengaluru, India",,OpenStreetMap
+Athicas Canteen,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Chai-Unchai,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Miniso,Variety Store,Bengaluru,"419, 27th Main Road, Bengaluru, 560034, India",,OpenStreetMap
+And,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bank of Baroda,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Priti Departmental Store,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Adeshwara Electronics,Electronics,Bengaluru,"Bengaluru, India",,OpenStreetMap
+I-gate optic vision,Optics,Bengaluru,"Bengaluru, India",,OpenStreetMap
+HDFC Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Clinic,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Tata Book Store,Books,Bengaluru,"Bengaluru, India",,OpenStreetMap
+ICICI Bank,Bank,Bengaluru,"Elephant Cave Road, Bengaluru, 560011, India",,OpenStreetMap
+Shanti Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bharat Petroleum,Fuel,Bengaluru,"Elephant Cave Road, Bengaluru, India",,OpenStreetMap
+Sukh Sagar,Restaurant,Bengaluru,"Mahayogi Vemana Road, Bengaluru, India",,OpenStreetMap
+Wipro K1 office,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Apollo Hospital,Hospital,Bengaluru,"74/1, Outer Ring Road, Bengaluru, 560037, India",+91-80-40222555,OpenStreetMap
+Foodworld,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Canara Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+ICICI Bank,Bank,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Bharat Petroleum,Fuel,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Narayana Hrudayalaya Dental Clinic,Hospital,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+State Bank of India,Bank,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+Dr Ganesh Medical and Diabetic Clinic,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Crazy Boys,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Family Mall,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Spencers Express,Supermarket,Bengaluru,"7th Cross Road, Bengaluru, 560071, India",,OpenStreetMap
+More,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Srinidhi Sagar,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nandhini,Restaurant,Bengaluru,"100 Feet Road, Bengaluru, India",,OpenStreetMap
+Drapes Avenue,Curtain,Bengaluru,"279, Inner Ring Road, Bengaluru, India",,OpenStreetMap
+Nandhana,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+BWSSB Office,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+KFC,Fast Food,Bengaluru,"100 Feet Road( S K Karim Khan Road), Bengaluru, India",,OpenStreetMap
+Sukh Sagar,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Cauvery Arts And Crafts Emporium,Craft,Bengaluru,"M G Road, Bengaluru, India",,OpenStreetMap
+Ashwin Pharma,Pharmacy,Bengaluru,"HAL Airport Road, Bengaluru, India",,OpenStreetMap
+Simply Native,Restaurant,Bengaluru,"Paramahansa Yogananda Road, Bengaluru, India",,OpenStreetMap
+Subway,Fast Food,Bengaluru,"Indiranagar Double Road, Bengaluru, India",,OpenStreetMap
+Apollo Pharmacy,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Adyar Ananda Bhavan,Confectionery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+TVS Sundaram Motors,Car,Bengaluru,"107, Kasturba Road, Bengaluru, 560 001, India",+91-80-22070713;+91-80-22070709,OpenStreetMap
+NXP Semiconductors India,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Philips Innovation Campus,Company,Bengaluru,"Bengaluru, 560045, India",+918041890000,OpenStreetMap
+IBM,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Thom's Bakery,Bakery,Bengaluru,"# 1/2, Wheeler Road, Bengaluru, 560005, India",,OpenStreetMap
+Reliance Fresh,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Koshy's,Restaurant,Bengaluru,"39, Saint Mark's Road, Shanthala Nagar, Bengaluru, 560001, India",,OpenStreetMap
+Shoba,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Smart,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+JBS Hospital,Hospital,Bengaluru,"Kanakapura Road, Bengaluru, India",,OpenStreetMap
+Jayanagar heart Centre,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Big Bazaar,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Indian Oil,Fuel,Bengaluru,"Bengaluru, India",,OpenStreetMap
+HP Auto Care,Fuel,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Motorola,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pizza Hut,Restaurant,Bengaluru,"Chinmaya Mission Hospital Road, Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"100 Feet Road(S K Karim Khan Road), Bengaluru, India",,OpenStreetMap
+Konārk,Restaurant,Bengaluru,"Bengaluru, India",+918041248812,OpenStreetMap
+Kamat Nandanvan,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Archies Gallery,Gift,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Old Madras Baking Company,Bakery,Bengaluru,"Saint Mark's Road, Bengaluru, 560001, India",,OpenStreetMap
+Geojit Financial Services,Mobile Phone,Bengaluru,"Margosa Road, Bengaluru, India",,OpenStreetMap
+Hard Rock Cafe,Restaurant,Bengaluru,"Saint Mark's Road, Bengaluru, India",,OpenStreetMap
+Sri Raghavendra,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Jala Soudha (Central Water Commission),Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Anand Sagar Punjabi Dhaba,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mavalli Tiffin Rooms,Restaurant,Bengaluru,"14, Lalbagh Road, Bengaluru, 560027, India",+918022220022,OpenStreetMap
+Hyderbad Biryani House,Restaurant,Bengaluru,"Victoria Road, Bengaluru, India",,OpenStreetMap
+Karur Vysya Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Shop and save,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Vijayalakshmi Pragathi Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ginger Greens,Restaurant,Bengaluru,"122/4, Outer Ring Road, Bengaluru, 560043, India",+91-80-25434744,OpenStreetMap
+Dosa Camp,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+MedPlus,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Fresh Supermarket,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ruksana's Beauty Salon,Beauty,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pizza Hut,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Foodworld Supermarket,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+ICICI Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Style Spa,Furniture,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sabari Vegetables and Fruits,Greengrocer,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sansar Collections,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sathya Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sathya Medicals,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Thambis's Inetcafé,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sip n Bite,Grocery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Cafe Moksh,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Jn Style,Beauty,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hallimane,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sampige Theatre,Cinema,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+Bank of India,Bank,Bengaluru,"Kempe Gowda Road, Bengaluru, India",,OpenStreetMap
+Indian Bank,Bank,Bengaluru,"Kempe Gowda Road, Bengaluru, India",,OpenStreetMap
+Kids Kemp,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Adiga's,Restaurant,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+Infinitea,Cafe,Bengaluru,"17/1, Cunningham Road, Bengaluru, India",,OpenStreetMap
+Indian Express,Newspaper,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mothercare,Motherhood,Bengaluru,"12th Main Road, Bengaluru, India",,OpenStreetMap
+Servelots,It,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Foto Park,Photo,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Yo China,Restaurant,Bengaluru,"90/3, Outer Ring Road (Opp. Innovative Multiplex), Bengaluru, 560034, India",+91-80-40980666,OpenStreetMap
+Rajasthani Parotha Point,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Arya Vysya Refreshments,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mumbai Badam & Lassi Center,Beverages,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Chord Road Hospital Pvt Ltd,Hospital,Bengaluru,"100, West of Chord Road (LIC Colony), Bengaluru, 560079, India",+91-80-23225858;+91-80-23225868;+91-80-23225878,OpenStreetMap
+Bharat Petroleum,Fuel,Bengaluru,"WOC Road, Bengaluru, India",,OpenStreetMap
+Guru Sagar Hotel,Restaurant,Bengaluru,"WOC Road, Bengaluru, India",,OpenStreetMap
+Fresh@Heritage,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Fair and Fair,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ganesh Upahara,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nilgiris,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Smart Bazaar,Supermarket,Bengaluru,"Marenahalli Road, Bengaluru, India",,OpenStreetMap
+LIC,Insurance,Bengaluru,"Bengaluru, India",,OpenStreetMap
+State Bank of India,Bank,Bengaluru,"Margosa Road, Bengaluru, India",,OpenStreetMap
+Polar Bear,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hav Mor,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pristline Hospital,Hospital,Bengaluru,"877, Modi Hospital Road (West of Chord Road), Bengaluru, 560079, India",+91-80-41354444;+91-80-51270776,OpenStreetMap
+Photo Studio,Photo Studio,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hyderabad House,Restaurant,Bengaluru,"Hosur Road, Bengaluru, India",,OpenStreetMap
+McDonald's,Fast Food,Bengaluru,"Hosur Road, Bengaluru, India",,OpenStreetMap
+KFC,Fast Food,Bengaluru,"Hosur Road, Bengaluru, 560095, India",,OpenStreetMap
+Nandhini Andhra Hotel,Restaurant,Bengaluru,"Thimmaiah Road, Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+Reliance Fresh,Supermarket,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+Janaagraha,Ngo,Bengaluru,"19/4, Cunningham Road, Vasanth Nagar, Bengaluru, 560052, India",,OpenStreetMap
+Pai Vihar,Restaurant,Bengaluru,"Thimmaiah Road, Bengaluru, India",,OpenStreetMap
+HOPCOMS,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Reliance smart,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bharat Petroleum,Fuel,Bengaluru,"Bengaluru, India",,OpenStreetMap
+ICICI Bank,Bank,Bengaluru,"local_knowledge, Bengaluru, 560003, India",,OpenStreetMap
+Papa John's,Fast Food,Bengaluru,"504, Sampige Road, Bengaluru, 560003, India",080 41280614,OpenStreetMap
+Vishnu Sagar,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Corporation Bank,Bank,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+Kolkata Chaat,Fast Food,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+MintLeaf,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Emirates,Restaurant,Bengaluru,"Suberdar Chatram Road, Bengaluru, India",,OpenStreetMap
+RR Cycle Junction,Bicycle,Bengaluru,"Suberdar Chatram Road, Bengaluru, India",,OpenStreetMap
+"Bengaluru Hospital, Susruta Medical Aid AndResearch Home Limited",Hospital,Bengaluru,"Rashtriya Vidyalaya Road, Bengaluru, 560001, India",,OpenStreetMap
+City Supermarket,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Spencers Daily,Supermarket,Bengaluru,"Pipeline Road, Bengaluru, India",,OpenStreetMap
+Hindustan Petroleum,Fuel,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bharath,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Kadamba Veg,Fast Food,Bengaluru,"Bel Market, Bengaluru, 560013, India",,OpenStreetMap
+Sri Manjunath Medical & General stores,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Wah Paratha,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Indian Oil,Fuel,Bengaluru,"Lalbagh Road, Bengaluru, India",,OpenStreetMap
+Dava Sagar,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Apollo Pharmacy,Pharmacy,Bengaluru,"Horamavu Agara Main Road, Bengaluru, India",,OpenStreetMap
+More,Supermarket,Bengaluru,"Horamavu Agara Main Road, Bengaluru, India",,OpenStreetMap
+Karnataka Bank,Bank,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+Ganesh Darshan,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Upahara Darshini,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nagarjuna Chimney,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+La Casa,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+KFC,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+The Only Place,Restaurant,Bengaluru,"13, Museum Road, Bengaluru, India",+91-80-32718989,OpenStreetMap
+Temple of The Senses,Cafe,Bengaluru,"Museum Road, Shanthala Nagar, Bengaluru, India",,OpenStreetMap
+Durga Restaurant,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Aishwarya Bakery,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Indian Coffee House,Restaurant,Bengaluru,"Church Street, Bengaluru, India",,OpenStreetMap
+Mishra Pedha,Fast Food,Bengaluru,"Rajaram Mohan Roy Road, Bengaluru, India",,OpenStreetMap
+Bank of India,Bank,Bengaluru,"Margosa Road, Bengaluru, India",,OpenStreetMap
+Udupi Sri Krishnarajathadri,Restaurant,Bengaluru,"Sampige Road, Malleshwaram, Bengaluru, India",,OpenStreetMap
+IndusInd Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+ING Vysya,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nandini Palace,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Denizen,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Beijing Bites,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+World of Titan,Watches,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Van Heusen,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bata,Shoes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Koutons,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Blossom,Books,Bengaluru,"Church Street, Bengaluru, India",,OpenStreetMap
+McDonald's,Fast Food,Bengaluru,"New BEL Road, Bengaluru, India",,OpenStreetMap
+Onesta,Restaurant,Bengaluru,"New BEL Road, Bengaluru, India",,OpenStreetMap
+Cane Crush,Juice,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Chung's,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+HDFC Bank,Bank,Bengaluru,"Margosa Road, Bengaluru, India",,OpenStreetMap
+Sher-e-Punjab Dhaba,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Raju Samosa,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sai Chats,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Adarsh Dhaba,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+UCO Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+SVC Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pushyamee,Pharmacy,Bengaluru,"8th Main, Bengaluru, India",,OpenStreetMap
+Kotak Mahindra Bank,Bank,Bengaluru,"Margosa Road, Bengaluru, India",,OpenStreetMap
+Shanthi Sagar,Cafe,Bengaluru,"New BEL Road, Bengaluru, 560054, India",,OpenStreetMap
+RMV Club,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Baker's Hut,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Syndicate Bank,Bank,Bengaluru,"Margosa Road, Bengaluru, India",,OpenStreetMap
+Hunan Chinese Restaurant,Restaurant,Bengaluru,"10, 1st Main Road, New BEL Road, Bengaluru, India",+91-80-23413337,OpenStreetMap
+Kabini Canteen,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Manipal Northside Hospital,Hospital,Bengaluru,"71, 11th Main Road, Opp Railway Station, Malleswaram, Bengaluru, 560003, India",080 2222 1111,OpenStreetMap
+Manipal North Side Pharmacy,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Chicken County,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+IISc Alumni Association,Association,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Shiro,Restaurant,Bengaluru,"Vittal Mallaya Road, Bengaluru, 560001, India",,OpenStreetMap
+Sandhya Sagar,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Utsav,Restaurant,Bengaluru,"Shanti Road, Bengaluru, India",,OpenStreetMap
+Families Hypermarket,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Rasa,Restaurant,Bengaluru,"Sampige Road, Bengaluru, India",,OpenStreetMap
+Sri Ganesh Darshan,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Freska,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pizza Hut,Restaurant,Bengaluru,"New BEL Road, Bengaluru, India",,OpenStreetMap
+Miller's 46,Restaurant,Bengaluru,"Millers Road, Bengaluru, India",,OpenStreetMap
+Naturals Unisex Salon,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Regal Voyages,Travel Agency,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mint Masala,Restaurant,Bengaluru,"Jeevaraj Alva Road, Bengaluru, India",,OpenStreetMap
+Juice Junction,Beverages,Bengaluru,"Saint Mark's Road, Bengaluru, India",,OpenStreetMap
+State Bank of India,Bank,Bengaluru,"Raj Bhavan Road, Bengaluru, 560001, India",,OpenStreetMap
+Bowring Stall,Cafe,Bengaluru,"Saint Mark's Road, Bengaluru, India",,OpenStreetMap
+Kotak Mahindra Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Shezan Restaurant,Restaurant,Bengaluru,"17/1, Cunningham Road, Bengaluru, India",,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"Cunningham Road, Bengaluru, India",,OpenStreetMap
+PPS Motors,Car,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ramana's,Restaurant,Bengaluru,"Cunningham Road, Bengaluru, India",,OpenStreetMap
+Subway,Fast Food,Bengaluru,"Kasturba Road, Bengaluru, India",,OpenStreetMap
+McDonald's,Fast Food,Bengaluru,"Kasturba Road, Bengaluru, India",,OpenStreetMap
+Bharat Petroleum,Fuel,Bengaluru,"Kasturba Road, Bengaluru, India",,OpenStreetMap
+Nisarga,Restaurant,Bengaluru,"Nrupathunga Road, Bengaluru, 560001, India",,OpenStreetMap
+Fernspetals,Florist,Bengaluru,"13th Cross Sadashivanagar, Bengaluru, India",,OpenStreetMap
+Department of Youth Services and Sports,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+BESCOM,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Karnataka State Fisheries,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mathsyadarshini (Fish Canteen),Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"Lavelle Road, Bengaluru, India",,OpenStreetMap
+IELTS Test Center,Educational Institution,Bengaluru,"23, Prestige Takt, Kasturba Cross Road, Bengaluru, 560001, India",+91-1-800-102-4353,OpenStreetMap
+Dhanlaxmi Bank,Bank,Bengaluru,"Kasturba Road, Bengaluru, India",,OpenStreetMap
+Yes Bank,Bank,Bengaluru,"Kasturba Road, Bengaluru, India",,OpenStreetMap
+Josco,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bajaj,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Corporation Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+sri lakshmi venkteshwara flower decoraters,Garden Centre,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Jewellery shops,Jewelry,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Government Primary Health Centre,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Voltas,Electronics,Bengaluru,"Dr. C V Raman Road, Bengaluru, India",,OpenStreetMap
+Museum Canteen,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Canteen,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Keshava Medical & General Stores,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Punjab National Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Karnataka Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Syndicate Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Parkview Hotel,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Karnataka Pensioners Office,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Used Car Sales,Car,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bangalore One,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Regal Palace Men's Salon,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Divakars speciality Hospital,Hospital,Bengaluru,"Bengaluru, 560078, India",,OpenStreetMap
+Department of Land Survey,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Karnakata Hardware Store,Hardware,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Chatpat,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Vinayaka Juice & Chats Center,Cafe,Bengaluru,"Kempe Gowda Road, Bengaluru, India",,OpenStreetMap
+Hotel Madhuvan,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Karnataka Power Transmission Corporation Limited,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Lakme,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hotel Empire,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sanman Veg,Restaurant,Bengaluru,"Cunningham Road, Bengaluru, India",,OpenStreetMap
+Sweet Chariot,Pastry,Bengaluru,"Cunningham Road, Bengaluru, India",,OpenStreetMap
+Canara Bank,Bank,Bengaluru,"Cunningham Road, Bengaluru, India",,OpenStreetMap
+S. S. Pharma,Pharmacy,Bengaluru,"Benson Cross Road, Bengaluru, India",,OpenStreetMap
+Family Super Market,Supermarket,Bengaluru,"Benson Cross Road, Bengaluru, India",+91-80-23634305;+91-80-23430462,OpenStreetMap
+Indian Bank,Bank,Bengaluru,"Benson Cross Road, Bengaluru, India",,OpenStreetMap
+More,Supermarket,Bengaluru,"Nandi Durg Road, Bengaluru, India",,OpenStreetMap
+Arafa Stores,Supermarket,Bengaluru,"Benson Cross Road, Bengaluru, India",,OpenStreetMap
+Benson Auto Garage,Car Repair,Bengaluru,"Benson Cross Road, Bengaluru, India",,OpenStreetMap
+"Namdhari Fresh, Frazer Town",Supermarket,Bengaluru,"Madhavaraya Mudaliar Road, Bengaluru, 560005, India",,OpenStreetMap
+Printo,Copyshop,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Sana Di Ge,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Lakme Salon,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pure & Natural,Cafe,Bengaluru,"13th Cross Sadashivanagar, Bengaluru, India",,OpenStreetMap
+Touch of Joy Womens' Beauty Parlor,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+New Shanthi Sagar,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Saisudha Medical,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sandeep Motors,Car,Bengaluru,"Dr. C V Raman Road, Bengaluru, India",,OpenStreetMap
+Scotchyard,Alcohol,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nikki's Pub & Restaurant,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sparsh,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Balaji Stores,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mysore Resham Emporium,Clothes,Bengaluru,"KH Road (Double Road), Bengaluru, India",,OpenStreetMap
+Coffee Day,Cafe,Bengaluru,"Kempe Gowda Road, Bengaluru, India",,OpenStreetMap
+Chicken County,Fast Food,Bengaluru,"Dhanvanthari Road, Bengaluru, India",,OpenStreetMap
+LimeLite Unisex Salon & Spa,Hairdresser,Bengaluru,"Lavelle Road, Bengaluru, India",,OpenStreetMap
+Levi's,Clothes,Bengaluru,"Lavelle Road, Bengaluru, India",,OpenStreetMap
+Espirit,Clothes,Bengaluru,"Lavelle Road, Bengaluru, India",,OpenStreetMap
+ICICI Bank,Bank,Bengaluru,"Lavelle Road, Bengaluru, India",,OpenStreetMap
+Giovani,Clothes,Bengaluru,"Saint Mark's Road, Bengaluru, India",,OpenStreetMap
+Bank of India,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Amruth Vegetarian Restaurant,Restaurant,Bengaluru,"Saint Mark's Road, Bengaluru, India",,OpenStreetMap
+Hotel Vinitha,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hare Krishna Pure Veg Restaurant,Restaurant,Bengaluru,"Gubbi Thotadappa Road, Bengaluru, India",,OpenStreetMap
+Balaji Restaurant,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Fresh Cane,Cafe,Bengaluru,"Balepet Road, Bengaluru, India",,OpenStreetMap
+BMTC Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bureau of Indian Standards - BIS,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+appnomics,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mamata,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Greeshma,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Student Council Office,Association,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Barbeque Nation,Restaurant,Bengaluru,"100 Feet Road( S K Karim Khan Road), Bengaluru, India",,OpenStreetMap
+Samosa,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hotel Madeshwara,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sweet City Bakery,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Digi m2m Solutions,Yes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+A Masala House,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ramakrishna Nursing Home and Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Shilpa Homeopathic Clinic,Clinic,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Levi's,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Andhra Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Google,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Adidas,Sports,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Reebok,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Kabab Manor,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mini Bazaar,Supermarket,Bengaluru,"Hutchins Main Road, Bengaluru, 560084, India",,OpenStreetMap
+Food Magic,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Amruth Medicals,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ebony,Restaurant,Bengaluru,"84, Mahatma Gandhi Road, Bengaluru, India",+91 8025136611; +91 8041783344,OpenStreetMap
+Trends Woman,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Little Imperial,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nokia Solutions and Networks,Telecommunication,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nokia Networks,Yes,Bengaluru,"Manyata Tech Park, Nagawara, Bengaluru, 560045, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+"SBF Health, Bengaluru Urban",Clinic,Bengaluru,"Bengaluru, 560037, India",,OpenStreetMap
+Hyderabad Biryani House,Restaurant,Bengaluru,"HAL Airport Road, Bengaluru, India",,OpenStreetMap
+Amrutha Condiments,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Empire,Restaurant,Bengaluru,"80 Feet Road(Sir C.V. Raman Hospital Road), Bengaluru, India",,OpenStreetMap
+AudioVision,Company,Bengaluru,"80 Feet Road(Sir C.V. Raman Hospital Road), Bengaluru, India",,OpenStreetMap
+Sangama Bakery,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Shashi Clinic,Clinic,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Murti medicals,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Jockey,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Ganesh Food Point,Restaurant,Bengaluru,"29th Main, Bengaluru, India",,OpenStreetMap
+Cashify,Mobile Phone,Bengaluru,"Bengaluru, India",,OpenStreetMap
+prima diagnostics,Pharmacy,Bengaluru,"Bengaluru, 560076, India",,OpenStreetMap
+Mom & Kid,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Punjabi Swag,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Honey Drops,Alcohol,Bengaluru,"Bengaluru, India",,OpenStreetMap
+More,Supermarket,Bengaluru,"80 Feet Road Girinagar, Bengaluru, India",,OpenStreetMap
+Nilgiris Store,Convenience,Bengaluru,"80 Feet Road Girinagar, Bengaluru, India",,OpenStreetMap
+Udupi Upahar,Restaurant,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Radhakrishna Pharmacy,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Balaji Medicals and General Stores,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Food World,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Anna Kuteera,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Eeshwari Theatre,Cinema,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+Shanthi Sagar,Restaurant,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+IBP Petrol Station,Fuel,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Ganesh Bhavan,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Vinayaka Poly Clinic,Hospital,Bengaluru,"8/45, 80 Feet Road, SBM Colony, Near-Bank Colony Bus Stop, Banashankari 1st Stage, Bengaluru, 560050, India",080 2672 8455,OpenStreetMap
+Mistral Solutions Pvt Ltd,Company,Bengaluru,"60, Bengaluru, 560071, India",,OpenStreetMap
+RMV Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+HDFC Bank,Bank,Bengaluru,"P-4, Kssidc Industrial Area, Bengaluru, 560048, India",+91-80-66003333,OpenStreetMap
+Canara Bank,Bank,Bengaluru,"Whitefield Road, Mahadevapura, Bengaluru, India",,OpenStreetMap
+State Bank of India,Bank,Bengaluru,"Whitefield Road, Bengaluru, India",,OpenStreetMap
+The Coffee Brewery,Cafe,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+Eden Dhaba,Restaurant,Bengaluru,"103, Bengaluru, 560037, India",+91-80-65957659;+91-9342571046,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Heritage Fresh,Convenience,Bengaluru,"GM Palya Main Road, Bengaluru, India",,OpenStreetMap
+Ruchi Restaurant,Restaurant,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+State Bank of India,Bank,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Web Nirnaya Laptop Service Station,Computer,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bhutan Board Furniture,Furniture,Bengaluru,"WOC Road, Bengaluru, India",,OpenStreetMap
+Mallya Audikesh Diagnostics Center,Hospital,Bengaluru,"55, Infantry Road, Bengaluru, 560001, India",+918022868423,OpenStreetMap
+Mallige Medical Centre,Hospital,Bengaluru,"31/32, Crescent Rd,Nehru Nagar,Gandhi Nagar, Bengaluru, 560001, India",080 2220 3333,OpenStreetMap
+Zan Auto Sound,Car Parts,Bengaluru,"95/3, Outer Ring Road, Bengaluru, 560037, India",+91 80 6583 8277,OpenStreetMap
+ArmaDQ,Restaurant,Bengaluru,"27/7, Outer Ring Road, Bengaluru, 560037, India",,OpenStreetMap
+BLR37 Bar & Kitchen,Restaurant,Bengaluru,"38/3, Outer Ring Road, Bengaluru, 560037, India",,OpenStreetMap
+Axis Bank,Bank,Bengaluru,"WOC Road, Bengaluru, India",,OpenStreetMap
+AGIS,Company,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Smart Point,Supermarket,Bengaluru,"Outer Ring Road, Bengaluru, India",,OpenStreetMap
+Super talkies,Cinema,Bengaluru,"Bengaluru, India",,OpenStreetMap
+INOX Garuda Mall,Cinema,Bengaluru,"Commissariat Road, Bengaluru, India",,OpenStreetMap
+Alcohol Shop,Alcohol,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ullas Refreshment,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Devine Hospital,Hospital,Bengaluru,"Bengaluru, 560046, India",,OpenStreetMap
+Vijay Medicals,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Elements,Restaurant,Bengaluru,"Nandi Durg Road, Bengaluru, India",,OpenStreetMap
+Subway,Fast Food,Bengaluru,"Brigade Road, Bengaluru, India",,OpenStreetMap
+Hungry Panda,Restaurant,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+New City Super Market,Supermarket,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Trust,Pharmacy,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Reddys,Restaurant,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Smart Cars,Car Repair,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Bakers Park,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Gokula Petrol / Gas Station,Fuel,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Reliance Fresh,Supermarket,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Nilgiri's,Supermarket,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Cosmos,Convenience,Bengaluru,"Kaggadasspura Main Road, Bengaluru, India",,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"100 Feet Road, Bengaluru, India",,OpenStreetMap
+Kund,Restaurant,Bengaluru,"100 Feet Road, Bengaluru, India",,OpenStreetMap
+Cakes and Bakes,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Paratha Shop,Fast Food,Bengaluru,"New BEL Road, Bengaluru, India",,OpenStreetMap
+Barista,Cafe,Bengaluru,"New BEL Road, Bengaluru, India",,OpenStreetMap
+Lalbagh Nursing Home,Hospital,Bengaluru,"Siddapura Road, Bengaluru, India",,OpenStreetMap
+Highgates Hotel,Restaurant,Bengaluru,"Church Street, Bengaluru, India",,OpenStreetMap
+Gangothri Restaurant,Restaurant,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Pizza Hut,Restaurant,Bengaluru,"80 Feet Road, Bengaluru, India",,OpenStreetMap
+Taco Bell,Fast Food,Bengaluru,"Koramangala Inner Ring Road, Bengaluru, India",,OpenStreetMap
+Matthan,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Axis Bank,Bank,Bengaluru,"Sheshadri Road, Bengaluru, India",,OpenStreetMap
+Hotel Janardhana,Restaurant,Bengaluru,"Kumara Krupa Road, Bengaluru, India",,OpenStreetMap
+Government Maternity Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Škoda,Car,Bengaluru,"Ramana Maharshi Road, Bengaluru, India",,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"Whitefield Road, Bengaluru, India",,OpenStreetMap
+Vikas Medicals,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+SLV Fast Food,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Durga Chats,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bansuri Sweets,Confectionery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Paratha Point,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+LJB Iyengar's Bakery,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nature Fresh,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mamatha Departmental Store,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Soujanya Clinic,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Kanva Diagnostics Collection Centre,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Vodafone,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Seetha General Store,Convenience,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Kabab Studio,Restaurant,Bengaluru,"32/3, Crescent Road, Bengaluru, India",+91-80-41291300,OpenStreetMap
+Rajaji Nagar RTO,Government,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Nike,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Foody's,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Olive Beach,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bandhej,Clothes,Bengaluru,"Chinmaya Mission Hospital Road, Bengaluru, India",,OpenStreetMap
+New Akshay Mallya Hospital,Hospital,Bengaluru,"Varthur Road, Bengaluru, 560037, India",,OpenStreetMap
+Puma,Clothes,Bengaluru,"Varthur Road, Bengaluru, India",,OpenStreetMap
+Happy Mart,Convenience,Bengaluru,"Varthur Road, Bengaluru, India",,OpenStreetMap
+Reebok,Clothes,Bengaluru,"Varthur Road, Bengaluru, India",,OpenStreetMap
+Lilliput,Clothes,Bengaluru,"Varthur Road, Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"102, Outer ring road, Bellandur, Bengaluru, India",,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"102, Outer ring road, Bellandur, Bengaluru, India",,OpenStreetMap
+McDonald's,Fast Food,Bengaluru,"Outer ring road, Bellandur village, Bengaluru, India",,OpenStreetMap
+ASM Technolgies Limited,Yes,Bengaluru,"ASM Technolgies, Lusane Court, Richmond Road, Bengaluru, 560025, India",,OpenStreetMap
+Mahiti Infotech,Computer,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Vishnu Palace,Restaurant,Bengaluru,"ORR Doddanakundi, Bengaluru, India",,OpenStreetMap
+Plate 99 Restaurant,Restaurant,Bengaluru,"Bengaluru, India",+91 85508 35554,OpenStreetMap
+Preethi Condiments,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+car accesories,Car Parts,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Metro,Wholesale,Bengaluru,"100 Feet Road(S K Karim Khan Road), Bengaluru, India",,OpenStreetMap
+Woodland,Shoes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Presidency Hospital,Hospital,Bengaluru,"Whitefield Road, Bengaluru, India",,OpenStreetMap
+ICICI Bank,Bank,Bengaluru,"Outer Ring Road, Bengaluru, 560037, India",,OpenStreetMap
+Kishore Vaigyanik Protsahan Yojana (KVPY),Educational Institution,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Hitech Communication,Mobile Phone,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Srinivas Clinic,Hospital,Bengaluru,"29 Main, Bengaluru, India",,OpenStreetMap
+Barista,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Damro,Furniture,Bengaluru,"Outer Ring Road, Marathahalli, Bengaluru, India",,OpenStreetMap
+City Pearl,Supermarket,Bengaluru,"Horamavu Agara Main Road, Bengaluru, India",,OpenStreetMap
+7 Days,Supermarket,Bengaluru,"Horamavu Agara Main Road, Bengaluru, India",,OpenStreetMap
+Lakme Beauty Parlour,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+MK Retail Super Market,Supermarket,Bengaluru,"17th Cross Road, Bengaluru, 560102, India",,OpenStreetMap
+Chat,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"5th Main, Bengaluru, India",,OpenStreetMap
+Trust Pharma,Pharmacy,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Shree Sagar CTR,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Queens Nursing Home,Clinic,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Olympic Sports,Sports,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Parota Point,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Bun World,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Ganesh Medicals,Pharmacy,Bengaluru,"8th Main Road, Bengaluru, 560055, India",,OpenStreetMap
+Homely Organic,Supermarket,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Excel Dry Cleaners,Laundry,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Food Camp,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Sai Dosa Center,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Iyengar's Bakery,Bakery,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Amrut Ice-cream,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Papa John's,Fast Food,Bengaluru,"Bengaluru, India",080-42134320,OpenStreetMap
+Swadeshi,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Next,Electronics,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Multiplex Hypermarket,Department Store,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Eden Park,Restaurant,Bengaluru,"21/1, Cunningham Road, Bengaluru, India",,OpenStreetMap
+Cafe Coffee Day,Cafe,Bengaluru,"Hosur Road, Bengaluru, India",,OpenStreetMap
+Shivakumar Medicals & General Store,Pharmacy,Bengaluru,"27th main, Bengaluru, 560102, India",,OpenStreetMap
+Sagar Automobiles,Car,Bengaluru,"Bengaluru, India",,OpenStreetMap
+India Coffee House,Cafe,Bengaluru,"Dr B R Ambedkar Veedhi, Bengaluru, India",,OpenStreetMap
+Domino's,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Sri Krishna Upahar,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Metro Hospital,Hospital,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Mobil Petrol / Gas Station,Fuel,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ladies Beauty Parlor,Hairdresser,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Ann's View Bakery,Bakery,Bengaluru,"Thippasandra Main Road, Bengaluru, India",,OpenStreetMap
+Meenakshi Electricals,Doityourself,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Coffeeday Xpress,Cafe,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Aramane Donne Biryani,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Max,Clothes,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Indian Overseas Bank,Bank,Bengaluru,"Bengaluru, India",,OpenStreetMap
+MK Retail,Supermarket,Bengaluru,"Chinmaya Mission Hospital Road, Bengaluru, 560038, India",,OpenStreetMap
+Bimal Maruti Sai Service Station,Car Repair,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pai Electronics,Hifi,Bengaluru,"100 Feet Road( S K Karim Khan Road), Bengaluru, India",,OpenStreetMap
+Sapna Book House,Books,Bengaluru,"80 Feet Road(Sir C.V. Raman Hospital Road), Bengaluru, India",,OpenStreetMap
+HOPCOMS,Greengrocer,Bengaluru,"99, Bengaluru, India",,OpenStreetMap
+HOPCOMS,Greengrocer,Bengaluru,"100 Feet Road(S K Karim Khan Road), Bengaluru, India",,OpenStreetMap
+Mainland China,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Pai Electronics,Hifi,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Kota Kachori,Fast Food,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Coast to Coast Sea food restaurant,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Tamrind Restaurant,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
+Kubey Seafood Restaurant,Restaurant,Bengaluru,"Bengaluru, India",,OpenStreetMap
