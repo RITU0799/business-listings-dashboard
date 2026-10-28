@@ -1,131 +1,220 @@
 # Business Listings Dashboard
 
-A full-stack internship assignment implementation using **React + FastAPI + MySQL**.
+A full-stack business listing management and analytics application developed for the **Honeybee Digital Data Science Internship Assignment 2026**, using React, FastAPI, and MySQL.
 
 ## Features
-- Import business listings in bulk through FastAPI.
-- MySQL `listing_master` table.
-- City-wise, category-wise and source-wise aggregation APIs.
-- React dashboard with KPI cards, bar chart and pie chart.
-- OpenStreetMap/Overpass collection script (use only in accordance with the source's usage policies).
-- Clearly labelled synthetic demo data so the dashboard can be tested when scraping is unavailable.
 
-## Project structure
+- Bulk import of business listings through a FastAPI REST endpoint.
+- MySQL database with a `listing_master` table.
+- Dashboard summary with total listings, distinct cities, and distinct categories.
+- City-wise, category-wise, and source-wise aggregation APIs.
+- Interactive React dashboard with KPI cards, bar charts, and pie charts.
+- OpenStreetMap/Overpass data collection script.
+- Synthetic demonstration data clearly distinguished from source-derived records.
+- SQL database schema and database dump for setup and restoration.
+
+## Technology Stack
+
+| Component | Technology |
+|---|---|
+| Frontend | React.js, Vite, Recharts |
+| Backend | Python, FastAPI |
+| Database | MySQL 8+ |
+| Database connectivity | SQLAlchemy, PyMySQL |
+| Data collection | OpenStreetMap / Overpass API |
+| API documentation | FastAPI Swagger UI |
+| Version control | Git and GitHub |
+
+## Project Structure
+
 ```text
 business-listings-dashboard/
 ├── backend/
-│   ├── app/main.py
-│   ├── app/database.py
-│   ├── app/schemas.py
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── database.py
+│   │   ├── schemas.py
+│   │   └── __init__.py
 │   ├── requirements.txt
 │   └── .env.example
 ├── frontend/
-│   ├── src/App.jsx
-│   ├── src/main.jsx
-│   ├── src/index.css
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
 │   ├── package.json
+│   ├── package-lock.json
 │   └── index.html
 ├── data/
-│   └── sample_listings.csv
+│   ├── sample_listings.csv
+│   ├── osm_listings_candidate.csv
+│   └── other CSV datasets
 ├── scripts/
-│   ├── import_csv.py
 │   ├── generate_sample_data.py
+│   ├── import_csv.py
 │   └── scrape_osm.py
-├── database/schema.sql
+├── database/
+│   ├── schema.sql
+│   └── business_listings.sql
+├── README.md
 └── .gitignore
 ```
 
-## Requirements
-- Python 3.10+
-- Node.js 18+
-- MySQL 8+
-- Git (for GitHub submission)
+## Prerequisites
 
-## 1. Create the database
-Open MySQL Workbench or the MySQL CLI and run `database/schema.sql`.
+Install the following software before running the application:
 
-The script creates database `business_listings` and table `listing_master`.
+- Python 3.10 or later
+- Node.js and npm
+- MySQL Server 8 or later
+- Git
 
-## 2. Configure and start the backend (Windows PowerShell)
+## Setup and Installation
+
+### 1. Clone the repository
+
+```powershell
+git clone https://github.com/RITU0799/business-listings-dashboard.git
+cd business-listings-dashboard
+```
+
+### 2. Create the MySQL database
+
+Open MySQL Workbench or the MySQL command-line client and execute:
+
+```sql
+SOURCE path/to/business-listings-dashboard/database/schema.sql;
+```
+
+Alternatively, open `database/schema.sql` in MySQL Workbench and execute the script.
+
+The schema creates the `business_listings` database and the `listing_master` table.
+
+To restore the included database dump instead, use MySQL Workbench's import functionality or execute the dump against a suitable MySQL instance. Do not import both the full dump and the same dataset again unless duplicate records are intended.
+
+### 3. Configure the backend
+
+Open PowerShell in the project root and run:
+
 ```powershell
 cd backend
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 Copy-Item .env.example .env
 ```
 
-Edit `backend/.env` and set your MySQL username/password. Example:
-```env
+Edit `backend/.env` and configure the database connection string and allowed frontend origins according to the settings supported by the application.
+
+Example database URL:
+
+```text
 DATABASE_URL=mysql+pymysql://root:YOUR_PASSWORD@127.0.0.1:3306/business_listings
-CORS_ORIGINS=http://localhost:5173
 ```
 
-Start API:
+Replace `YOUR_PASSWORD` with your own MySQL password. Do not commit the actual `.env` file or expose database credentials.
+
+Start the FastAPI server from the `backend` directory:
+
 ```powershell
-uvicorn app.main:app --reload
+python -m uvicorn app.main:app --reload
 ```
-Open `http://127.0.0.1:8000/docs` to test endpoints.
 
-> If your MySQL root account has no password, use `mysql+pymysql://root:@127.0.0.1:3306/business_listings`.
+The API will be available at:
 
-## 3. Load data
-From the project root, in a second PowerShell terminal:
+- API base URL: `http://127.0.0.1:8000`
+- Interactive API documentation: `http://127.0.0.1:8000/docs`
+
+### 4. Load business listing data
+
+Open a separate PowerShell terminal at the project root.
+
+To import the included synthetic demonstration dataset:
+
 ```powershell
-py scripts/import_csv.py --csv data/sample_listings.csv
+python scripts/import_csv.py --csv data/sample_listings.csv
 ```
-This imports 600 clearly labelled synthetic records. They are for testing the application and **must not be described as real scraped businesses**.
 
-To attempt collection of real, publicly available OpenStreetMap business listings:
+To import the included OpenStreetMap candidate dataset:
+
 ```powershell
-py -m pip install requests
-py scripts/scrape_osm.py --limit 500 --output data/osm_listings.csv
-py scripts/import_csv.py --csv data/osm_listings.csv
+python scripts/import_csv.py --csv data/osm_listings_candidate.csv --batch-size 250
 ```
-The Overpass public service can rate-limit or reject large queries. If that happens, use the included sample dataset and disclose the limitation, as allowed by the assignment. Do not bypass website access controls or violate terms of service.
 
-## 4. Start the React dashboard
-Open a third terminal:
+The second command imports the prepared CSV; it does not perform a new scraping operation.
+
+To attempt a new OpenStreetMap collection, use the collection script and check the resulting records before importing them:
+
+```powershell
+python -m pip install requests
+python scripts/scrape_osm.py --limit 500 --output data/osm_listings.csv
+```
+
+Only import the generated file if the collection completed successfully and its contents have been checked. Public Overpass services can be unavailable or rate-limited. Respect applicable usage policies and do not bypass access controls.
+
+### 5. Start the React frontend
+
+Open another PowerShell terminal:
+
 ```powershell
 cd frontend
 npm install
 npm run dev
 ```
-Visit `http://localhost:5173`.
 
-## API endpoints
-- `GET /health` — API health check
-- `POST /api/listings/bulk` — bulk insert records
-- `GET /api/listings?limit=100` — list recent records
-- `GET /api/dashboard/summary` — total listings and distinct counts
-- `GET /api/dashboard/city-counts` — city-wise count
-- `GET /api/dashboard/category-counts` — category-wise count
-- `GET /api/dashboard/source-counts` — source-wise count
+Open the local URL printed by Vite, usually:
 
-## 5. GitHub submission
-From the project root:
-```powershell
-git init
-git add .
-git commit -m "Build business listings dashboard assignment"
-git branch -M main
-git remote add origin https://github.com/RITU0799/business-listings-dashboard.git
-git push -u origin main
-```
+`http://127.0.0.1:5173/`
 
-## 6. Demo video outline (3–5 minutes)
-1. Introduce the React + FastAPI + MySQL architecture (20–30 sec).
-2. Show the `listing_master` table and explain fields (30–45 sec).
-3. Open `/docs`, show the bulk-insert endpoint and aggregation APIs (45–60 sec).
-4. Show the dashboard KPI cards and city/category/source charts (60–90 sec).
-5. Explain the data collection script, note whether you used live OSM results or synthetic fallback data, and mention limitations (30–45 sec).
+Keep both the backend and frontend terminals running while using the dashboard.
 
-## Challenges / limitations to discuss honestly
-- Public directory websites may block automated scraping or restrict reuse.
-- OpenStreetMap coverage and Overpass availability vary by city and query size.
-- Phone numbers are often absent from public map data.
-- Aggregations depend on data quality and consistent city/category labels.
-- Synthetic sample records are only for demonstrating end-to-end functionality; they are not evidence of successful real-world scraping.
+## API Endpoints
 
-## Important
-The provided `sample_listings.csv` is synthetic demo data. For a submission claiming 500+ collected listings, run the collector and verify the output is real source-derived data, or clearly state that sample data was used.
+| Method | Endpoint | Purpose |
+|---|---|---|
+| GET | `/health` | API health check |
+| POST | `/api/listings/bulk` | Bulk insert business listing records |
+| GET | `/api/listings?limit=100` | Retrieve business listings |
+| GET | `/api/dashboard/summary` | Retrieve total listings and distinct counts |
+| GET | `/api/dashboard/city-counts` | Aggregate listings by city |
+| GET | `/api/dashboard/category-counts` | Aggregate listings by category |
+| GET | `/api/dashboard/source-counts` | Aggregate listings by source |
+
+Use the interactive Swagger UI at `/docs` to inspect and test the endpoints.
+
+## Dataset and Data Quality
+
+The current local database contains **1,297 records**:
+
+| Data source | Records |
+|---|---:|
+| OpenStreetMap candidate dataset | 697 |
+| Synthetic demonstration dataset | 600 |
+| **Total** | **1,297** |
+
+The database summary previously reported six distinct city labels and 75 distinct categories across these records.
+
+The OpenStreetMap records are source-derived, but some fields are incomplete: phone numbers are missing for many listings, and some addresses contain only general location information. Category labels may also require normalization.
+
+The 600 synthetic records are demonstration data. They must not be represented as real businesses collected from websites. The source field is used to distinguish the synthetic records from OpenStreetMap records.
+
+These counts describe the current prepared dataset and may differ after subsequent imports or database changes.
+
+## Challenges and Limitations
+
+- Public data services may impose rate limits or temporary availability restrictions.
+- Business listing sources do not consistently provide phone numbers and complete addresses.
+- City and category labels may need standardization for reliable aggregation.
+- Synthetic data is useful for testing bulk import, database operations, and dashboard functionality, but does not establish successful real-world data collection.
+- Dashboard results depend on the quality and completeness of the imported dataset.
+
+## Submission Deliverables
+
+- **GitHub repository:** https://github.com/RITU0799/business-listings-dashboard
+- **Database schema:** `database/schema.sql`
+- **Database dump:** `database/business_listings.sql`
+- **Demo video:** A 3–5 minute walkthrough of the running dashboard, API endpoints, database, and data collection approach.
+
+## License and Data Use
+
+This repository was prepared for an internship assignment. Review the applicable terms and attribution requirements for any third-party datasets before redistributing them. Synthetic demonstration records are included only to support application testing.
